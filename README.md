@@ -3,7 +3,7 @@
 ```
 git clone https://github.com/ByroBuff/fakedat
 cd fakedat
-python main.py -i input.json -o output.txt
+python main.py -i input.json -o output.json
 ```
 
 ## template example
